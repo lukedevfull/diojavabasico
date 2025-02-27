@@ -1,4 +1,4 @@
-package edu.luke.AnatomyClasses;
+package edu.luke.anatomyOfClasses;
 public class AnatomyOfCLass {
     public static void main(String[] args) {
         String firstName = "João";
