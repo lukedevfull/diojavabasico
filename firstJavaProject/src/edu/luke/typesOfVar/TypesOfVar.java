@@ -1,6 +1,6 @@
 package edu.luke.typesOfVar;
 
-public class TypesVar {
+public class TypesOfVar {
     public static void main(String[] args) {
         int x = 10; // 32 bits Preferred
         long y = 1000l; // 64 bits Necessary for biggest numbers, every place L at the end
