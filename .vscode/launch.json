@@ -1,0 +1,56 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AnatomyOfCLass",
+      "request": "launch",
+      "mainClass": "edu.luke.anatomyOfClasses.AnatomyOfCLass",
+      "projectName": "diojavabasico_ee477139"
+    },
+    {
+      "type": "java",
+      "name": "User",
+      "request": "launch",
+      "mainClass": "edu.luke.methods.User",
+      "projectName": "diojavabasico_ee477139"
+    },
+    {
+      "type": "java",
+      "name": "OperatorsJava",
+      "request": "launch",
+      "mainClass": "edu.luke.operators.OperatorsJava",
+      "projectName": "diojavabasico_ee477139"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "edu.luke.terminalMethods.AboutMe",
+      "projectName": "diojavabasico_ee477139"
+    },
+    {
+      "type": "java",
+      "name": "TerminalMethods",
+      "request": "launch",
+      "mainClass": "edu.luke.terminalMethods.TerminalMethods",
+      "projectName": "diojavabasico_ee477139"
+    },
+    {
+      "type": "java",
+      "name": "TypesOfVar",
+      "request": "launch",
+      "mainClass": "edu.luke.typesOfVar.TypesOfVar",
+      "projectName": "diojavabasico_ee477139"
+    }
+  ]
+}
