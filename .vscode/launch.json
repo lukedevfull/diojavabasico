@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BankAccount",
+      "request": "launch",
+      "mainClass": "edu.luke.account.sintaxe.BankAccount",
+      "projectName": "diojavabasico_ee477139"
+    },
+    {
+      "type": "java",
+      "name": "BankAccount",
+      "request": "launch",
+      "mainClass": "edu.luke.account.BankAccount",
+      "projectName": "diojavabasico_ee477139"
+    },
+    {
+      "type": "java",
+      "name": "BankAccount",
+      "request": "launch",
+      "mainClass": "BankAccount",
+      "projectName": "diojavabasico_ee477139"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
