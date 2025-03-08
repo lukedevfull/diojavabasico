@@ -29,7 +29,12 @@ public class BankAccount {
         System.out.println("Digite o valor a ser sacado: ");
         amount = sc.nextDouble();
 
-        balance = balance - amount;
+        if (amount > balance) {
+            System.err.println("Saldo insuficiente");
+        } else {
+            balance = balance - amount;
+            System.out.println("Saque de R$ " + amount + " realizado com sucesso");
+        }
     }
 
     public void cashIn() {
