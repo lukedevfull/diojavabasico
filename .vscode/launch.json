@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RepeatFromForInArrays",
+      "request": "launch",
+      "mainClass": "edu.luke.repeatMethods.RepeatFromForInArrays",
+      "projectName": "diojavabasico_ee477139"
+    },
+    {
+      "type": "java",
       "name": "InternetPlan",
       "request": "launch",
       "mainClass": "edu.luke.switchCase.InternetPlan",
