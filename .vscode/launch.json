@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CandidatesSelection",
+      "request": "launch",
+      "mainClass": "edu.luke.candidatesFilter.CandidatesSelection",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
+      "name": "InternetPlan",
+      "request": "launch",
+      "mainClass": "edu.luke.switchCase.InternetPlan",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
+      "name": "AnatomyOfCLass",
+      "request": "launch",
+      "mainClass": "edu.luke.anatomyOfClasses.AnatomyOfCLass",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
       "name": "RepeatFromForInArrays",
       "request": "launch",
       "mainClass": "edu.luke.repeatMethods.RepeatFromForInArrays",
