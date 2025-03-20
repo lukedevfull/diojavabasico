@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestController",
+      "request": "launch",
+      "mainClass": "test.controllers.TestController",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
+      "name": "User",
+      "request": "launch",
+      "mainClass": "edu.luke.methods.User",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
       "name": "CandidatesSelection",
       "request": "launch",
       "mainClass": "edu.luke.candidatesFilter.CandidatesSelection",

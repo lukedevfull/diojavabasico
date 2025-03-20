@@ -5,23 +5,23 @@ public class SmartTv {
     int channel = 1;
     int volume = 25;
 
-    public void turnOn() {
+    protected void turnOn() {
         power = true;
     }
 
-    public void turnOff() {
+    protected void turnOff() {
         power = false;
     }
 
-    public void changeChannel(int newChannel) {
+    protected void changeChannel(int newChannel) {
         channel = newChannel;
     }
 
-    public void changeVolume(int newVolume) {
+    protected void changeVolume(int newVolume) {
         volume = newVolume;
     }
 
-    public void showStatus() {
+    void showStatus() {
         System.out.println(power ? "TV ligada" : "TV desligada");
         System.out.println("Canal atual: " + channel);
         System.out.println("Volume atual: " + volume);
