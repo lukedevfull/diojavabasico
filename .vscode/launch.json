@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ConsoleTester",
+      "request": "launch",
+      "mainClass": "test.controllers.ConsoleTester",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
+      "name": "School",
+      "request": "launch",
+      "mainClass": "edu.luke.gettersAndSetters.schoolExemple.School",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
       "name": "TestController",
       "request": "launch",
       "mainClass": "test.controllers.TestController",
