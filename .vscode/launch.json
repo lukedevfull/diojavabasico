@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FakeInstitute",
+      "request": "launch",
+      "mainClass": "edu.luke.enumPlayground.consume.FakeInstitute",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
+      "name": "ClientController",
+      "request": "launch",
+      "mainClass": "edu.luke.clientConstructor.controller.ClientController",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
+      "name": "CreateClient",
+      "request": "launch",
+      "mainClass": "edu.luke.clientConstructor.ClientTester.CreateClient",
+      "projectName": "diojavabasico_e80fdbfc"
+    },
+    {
+      "type": "java",
       "name": "ConsoleTester",
       "request": "launch",
       "mainClass": "test.controllers.ConsoleTester",
